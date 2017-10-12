@@ -1,0 +1,6 @@
+D:\자료\개발\Lab\Library\SHIClassLibrary\SHIClassLibrary\bin\Debug\SHIClassLibrary.dll
+D:\자료\개발\Lab\Library\SHIClassLibrary\SHIClassLibrary\bin\Debug\SHIClassLibrary.pdb
+D:\자료\개발\Lab\Library\SHIClassLibrary\SHIClassLibrary\obj\Debug\SHIClassLibrary.dll
+D:\자료\개발\Lab\Library\SHIClassLibrary\SHIClassLibrary\obj\Debug\SHIClassLibrary.pdb
+D:\자료\개발\Lab\Library\SHIClassLibrary\SHIClassLibrary\obj\Debug\SHIClassLibrary.Form1.resources
+D:\자료\개발\Lab\Library\SHIClassLibrary\SHIClassLibrary\obj\Debug\SHIClassLibrary.csproj.GenerateResource.Cache

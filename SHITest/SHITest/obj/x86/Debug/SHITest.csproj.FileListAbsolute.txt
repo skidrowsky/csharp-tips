@@ -1,0 +1,8 @@
+D:\자료\개발\Lab\Library\SHITest\SHITest\bin\Debug\SHITest.exe
+D:\자료\개발\Lab\Library\SHITest\SHITest\bin\Debug\SHITest.pdb
+D:\자료\개발\Lab\Library\SHITest\SHITest\bin\Debug\SHIClassLibrary.dll
+D:\자료\개발\Lab\Library\SHITest\SHITest\bin\Debug\SHIClassLibrary.pdb
+D:\자료\개발\Lab\Library\SHITest\SHITest\obj\x86\Debug\SHITest.csprojResolveAssemblyReference.cache
+D:\자료\개발\Lab\Library\SHITest\SHITest\obj\x86\Debug\SHITest.exe
+D:\자료\개발\Lab\Library\SHITest\SHITest\obj\x86\Debug\SHITest.pdb
+D:\자료\개발\Lab\Library\SHITest\SHITest\bin\Debug\SHITest.exe.config
