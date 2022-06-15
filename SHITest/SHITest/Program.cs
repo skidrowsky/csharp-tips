@@ -10,6 +10,7 @@ namespace SHITest
     {
         static void Main(string[] args)
         {
+
             //#region LogManager
             //LogManager log = new LogManager(null,"_SHITest");
             //log.WriteLine("[Begin Processing].....");
